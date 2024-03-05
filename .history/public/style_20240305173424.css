@@ -1,0 +1,9 @@
+input[type='submit'] {
+
+	display: block;
+	margin: 10px auto;
+	background-color: blue;
+	color: wheat;
+	border: 0px;
+	border-radius: 2px;
+}
